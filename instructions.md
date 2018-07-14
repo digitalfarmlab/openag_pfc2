@@ -2,21 +2,16 @@
 
 ![pfc2](Instructions/Photos/pfc2.jpg)
 
-
-## Before you begin:
-Printing Out the [Bill of Materials (BOM)](./BOM/BOM_MASTER.xlsx) is helpful as a reference. The descriptions it contains help distinguish between parts.
-Download the CAD documents from [here](CAD/GrabCAD) to be viewed in e-drawings-viewer.
-
-## Submodule Build Instructions
+## Module Build Instructions
 Follow the directions to assemble each submodule. Each submodule can be assembled in parallel, but some will take longer than others to complete.
-
-- [Frame](./Instructions/frame.md)
-- [Electronics Panel](./Instructions/electronics_panel.md)
-- [Brain Module](./Instructions/brain_module.md)
-- [Light Panel](./Instructions/light_panel.md)
-- [Power Module](./Instructions/power_module.md)
-- [Water Manifold](./Instructions/water_manifold.md)
-- [Chiller](./Instructions/chiller.md)
+- [Structure](./Instructions/frame.md)
+- [Power](./Instructions/power_module.md)
+- [Power](./Instructions/electronics_panel.md)
+- [Computing](./Instructions/brain_module.md)
+- [Air Control]
+- [Air Control](./Instructions/chiller.md)
+- [Light](./Instructions/light_panel.md)
+- [Water Control](./Instructions/water_manifold.md)
 
 ## Set Electrical Components into Proper Modes
 1. Set the **Multifunction Relay** into **Mode 10** and **Timer 1** to 20 seconds
