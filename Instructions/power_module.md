@@ -1,4 +1,3 @@
-##Assemble the Power Module
 ![power_module_assembly_front](Photos/power_module_assembly_front.jpg)
 
 ### Tools
