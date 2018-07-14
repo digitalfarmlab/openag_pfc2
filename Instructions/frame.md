@@ -1,7 +1,4 @@
-<!-- TODO: Indicate significance of threading -->
-<!-- TODO: Identify chirarity and parts, the things that were confusing. -->
-## Assemble the Frame
-### Tools
+## Tools
  - tape measure
  - Rubber Mallet
  - Table
@@ -11,7 +8,7 @@
  2.  Set the baseplate to the side for now, and group the bars by length
 ![Sorted Bars](Photos/Frame_Build_Photos/parts_1.jpg) ![connectors](Photos/Frame_Build_Photos/parts_2.jpg)
 
-#### Base Layer
+### Base Layer
 
 1. Collect the Base Layer Components:
   * x2 of STR-BAR-0001 	(18" 	Bar)
@@ -33,10 +30,10 @@
 7. Press the **STR-CON-0003** connectors into the ends of **STR-BAR-0007** & **STR-BAR-0006**.
 8. Double check all bar orientations, then attach the two assemblies together. ![Final step of bottom layer assembly](Photos/Frame_Build_Photos/bottom_layer_6.jpg)
 
-### Mount Frame to Base Plate
+## Mount Frame to Base Plate
 1. The Frame is mounted to the baseplate with **S-018-32-075-PST-F-AL (Bag 31)** Binder post. The countersunk holes of the baseplate should face down.
 
-### Mounting Vertical Members
+## Mounting Vertical Members
 1. There are three vertical members: **STR-BAR-0002**, **STR-BAR-0009** & **STR-BAR-0010**
   * Refering to **BOM-Master's STR-BAR-PCK-0001**,
   * **STR-BAR-0010** has L-brackets attached to it, with two larger holes on the bottom.
@@ -52,7 +49,7 @@
 
 ![Vertical Bars in their places.](Photos/Frame_Build_Photos/Verticals/vert_16.jpg)
 
-#### Top Layer
+### Top Layer
 
 - **STR-BAR-0001** x2
 - **STR-BAR-0003** x1
