@@ -4,7 +4,7 @@
 
 ## Module Build Instructions
 Follow the directions to assemble each submodule. Each submodule can be assembled in parallel, but some will take longer than others to complete.
-- [Structure](./Instructions/frame.md)
+- [Structure](./Instructions/structure.md)
 - [Power](./Instructions/power_module.md)
 - [Power](./Instructions/electronics_panel.md)
 - [Computing](./Instructions/brain_module.md)
