@@ -1,4 +1,4 @@
-# PFC2 Build Instructions
+# Personal Food Computer v2 Build Instructions
 
 ![pfc2](Instructions/Photos/pfc2.jpg)
 
