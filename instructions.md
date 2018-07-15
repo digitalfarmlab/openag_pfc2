@@ -11,7 +11,7 @@ Follow the directions to assemble each submodule. Each submodule can be assemble
 - [Air Control]
 - [Air Control](./Instructions/chiller.md)
 - [Light](./Instructions/light_panel.md)
-- [Water Control](./Instructions/water_manifold.md)
+- [Water Control](./Instructions/water_control.md)
 
 ## Set Electrical Components into Proper Modes
 1. Set the **Multifunction Relay** into **Mode 10** and **Timer 1** to 20 seconds
